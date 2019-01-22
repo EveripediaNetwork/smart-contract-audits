@@ -20,7 +20,7 @@ Document
   <tr>
    <td>Audited By: 
    </td>
-   <td>EOSDAC
+   <td>Michael Yeates - eosDAC
    </td>
   </tr>
 </table>
